@@ -1,2 +1,2 @@
-# ConvE_reproduce
+# ConvE_Reproduce
 reproduc conve by pytorch without  spodernet
