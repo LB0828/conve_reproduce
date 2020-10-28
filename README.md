@@ -1,4 +1,4 @@
-##conve_reproduce
+## conve_reproduce
 reproduce ConvE by pytorch without spodernet
 Paper:https://arxiv.org/abs/1707.01476
 ConvE is CNN-based model for knowlege graph Embedding, author's code implement is by spodernet which is hard understand.
